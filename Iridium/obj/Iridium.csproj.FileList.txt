@@ -1,0 +1,16 @@
+bin\Debug\MathNet.Iridium.dll
+bin\Debug\MathNet.Iridium.pdb
+bin\Debug\es\MathNet.Iridium.resources.dll
+bin\Debug\fr\MathNet.Iridium.resources.dll
+bin\Debug\de\MathNet.Iridium.resources.dll
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\MathNet.Numerics.Properties.Resources.resources
+obj\Debug\Iridium.csproj.GenerateResource.Cache
+obj\Debug\MathNet.Numerics.Properties.Resources.es.resources
+obj\Debug\MathNet.Numerics.Properties.Resources.fr.resources
+obj\Debug\MathNet.Numerics.Properties.Resources.de.resources
+obj\Debug\es\MathNet.Iridium.resources.dll
+obj\Debug\fr\MathNet.Iridium.resources.dll
+obj\Debug\de\MathNet.Iridium.resources.dll
+obj\Debug\MathNet.Iridium.dll
+obj\Debug\MathNet.Iridium.pdb

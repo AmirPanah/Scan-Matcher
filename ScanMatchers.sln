@@ -1,0 +1,63 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Third Party", "Third Party", "{B4EC4426-A076-4594-A9B7-A06DDDB71232}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScanMatcher", "Utility\ScanMatcher.csproj", "{68540407-4229-4592-8230-0750B7B81D6A}"
+	ProjectSection(ProjectDependencies) = postProject
+		{7166EEC9-BE98-4D19-886F-0F2101CDE754} = {7166EEC9-BE98-4D19-886F-0F2101CDE754}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Math", "Math\Math.csproj", "{7166EEC9-BE98-4D19-886F-0F2101CDE754}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Iridium", "Iridium\Iridium.csproj", "{26FC15DE-EFDA-403A-8284-1E2A4AE8A9D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tools", "Tools\Tools.csproj", "{DCAE6203-4384-4A07-BC92-DADBB1E55789}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogViewer", "LogViewer\LogViewer.csproj", "{1A2CE8A4-BC8E-466C-960D-F8781000F987}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestScanMatch", "TestScanMatch\TestScanMatch.csproj", "{C63CAE33-676D-446C-8CF0-D14B9B457185}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68540407-4229-4592-8230-0750B7B81D6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68540407-4229-4592-8230-0750B7B81D6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68540407-4229-4592-8230-0750B7B81D6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68540407-4229-4592-8230-0750B7B81D6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7166EEC9-BE98-4D19-886F-0F2101CDE754}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7166EEC9-BE98-4D19-886F-0F2101CDE754}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7166EEC9-BE98-4D19-886F-0F2101CDE754}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7166EEC9-BE98-4D19-886F-0F2101CDE754}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26FC15DE-EFDA-403A-8284-1E2A4AE8A9D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26FC15DE-EFDA-403A-8284-1E2A4AE8A9D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26FC15DE-EFDA-403A-8284-1E2A4AE8A9D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26FC15DE-EFDA-403A-8284-1E2A4AE8A9D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCAE6203-4384-4A07-BC92-DADBB1E55789}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCAE6203-4384-4A07-BC92-DADBB1E55789}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCAE6203-4384-4A07-BC92-DADBB1E55789}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCAE6203-4384-4A07-BC92-DADBB1E55789}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A2CE8A4-BC8E-466C-960D-F8781000F987}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A2CE8A4-BC8E-466C-960D-F8781000F987}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A2CE8A4-BC8E-466C-960D-F8781000F987}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A2CE8A4-BC8E-466C-960D-F8781000F987}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C63CAE33-676D-446C-8CF0-D14B9B457185}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C63CAE33-676D-446C-8CF0-D14B9B457185}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C63CAE33-676D-446C-8CF0-D14B9B457185}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C63CAE33-676D-446C-8CF0-D14B9B457185}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{26FC15DE-EFDA-403A-8284-1E2A4AE8A9D8} = {B4EC4426-A076-4594-A9B7-A06DDDB71232}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		VisualSVNWorkingCopyRoot = .
+	EndGlobalSection
+EndGlobal

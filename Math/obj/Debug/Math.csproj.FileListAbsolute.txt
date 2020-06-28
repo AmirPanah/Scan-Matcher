@@ -1,0 +1,20 @@
+C:\Users\Edris\Documents\Visual Studio 2008\Projects\ScanMatcher\Math\bin\Debug\Math.dll
+C:\Users\Edris\Documents\Visual Studio 2008\Projects\ScanMatcher\Math\bin\Debug\Math.pdb
+C:\Users\Edris\Documents\Visual Studio 2008\Projects\ScanMatcher\Math\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Edris\Documents\Visual Studio 2008\Projects\ScanMatcher\Math\obj\Debug\Math.dll
+C:\Users\Edris\Documents\Visual Studio 2008\Projects\ScanMatcher\Math\obj\Debug\Math.pdb
+C:\Users\Amir\Desktop\Scan Match\ScanMatcher(15-2-89)\Math\bin\Debug\Math.dll
+C:\Users\Amir\Desktop\Scan Match\ScanMatcher(15-2-89)\Math\bin\Debug\Math.pdb
+C:\Users\Amir\Desktop\Scan Match\ScanMatcher(15-2-89)\Math\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Amir\Desktop\Scan Match\ScanMatcher(15-2-89)\Math\obj\Debug\Math.dll
+C:\Users\Amir\Desktop\Scan Match\ScanMatcher(15-2-89)\Math\obj\Debug\Math.pdb
+D:\ScanMatcher(15-2-89)\Math\bin\Debug\Math.dll
+D:\ScanMatcher(15-2-89)\Math\bin\Debug\Math.pdb
+D:\ScanMatcher(15-2-89)\Math\obj\Debug\Math.csprojResolveAssemblyReference.cache
+D:\ScanMatcher(15-2-89)\Math\obj\Debug\Math.dll
+D:\ScanMatcher(15-2-89)\Math\obj\Debug\Math.pdb
+E:\DriveD\ScanMatcher(15-2-89)\Math\bin\Debug\Math.dll
+E:\DriveD\ScanMatcher(15-2-89)\Math\bin\Debug\Math.pdb
+E:\DriveD\ScanMatcher(15-2-89)\Math\obj\Debug\Math.csprojResolveAssemblyReference.cache
+E:\DriveD\ScanMatcher(15-2-89)\Math\obj\Debug\Math.dll
+E:\DriveD\ScanMatcher(15-2-89)\Math\obj\Debug\Math.pdb
